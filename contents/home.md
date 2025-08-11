@@ -29,5 +29,5 @@ Photoacoustic Microscopy（光声显微成像）, Photoacoustic Endoscopy（光�
 -Advisor for Students Competition including:\
   Third Prize in the Provincial Final of the FPGA Innovation Design Track, the 7th (2024) National College Students Embedded Chip and System Design Competition(第七届全国大学  生嵌入式芯片与系统设计竞赛FPGA创新设计赛道决赛省赛三等奖)\
   Second Prize in the Division of the Chip Application Track, the 8th (2025) National College Students Embedded Chip and System Design Competition(第八届全国大学生嵌入式芯片与系统设计竞赛芯片应用赛道赛区二等奖)\
-  Second Prize in the Division of the Chip Application Track, the 8th (2025) National College Students Embedded Chip and System Design Competition(第八届全国大学生嵌入式芯片与系统设计竞赛芯片应用赛道赛区二等奖)\
+  Second Prize in the Division of the Chip Application Track, the 8th (2025) National College Students Embedded Chip and System Design Competition(第八届全国大学生嵌入式芯片与系统设计竞赛芯片应用赛道赛区二等奖)
 
