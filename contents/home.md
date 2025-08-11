@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![SiqiLiang](https://github.com/lsq-sjtu/lsq-sjtu.github.io)](https://github.com/lsq-sjtu/lsq-sjtu.github.io)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Lecturer in School of Information and Electrical Engineering, Hunan University of Science and Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: liangsiqi[at]hnust.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Electronic Engineering, Shanghai Jiao Tong University, 2018—2023.\
+B.E., Optoelectronic Information Science and Engineering, Northwestern Polytechnical University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Photoacoustic Microscopy, Photoacoustic Endoscopy, Photoacoustic Imaging with AI, Diffuse Optical Spectroscopy.
 
