@@ -1,6 +1,6 @@
 #### Submitted
 
-- <strong>Siqi Liang^</strong>, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and Myeongsu Seong#. ensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy.  In Review 
+- <strong>Siqi Liang^</strong>, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and Myeongsu Seong#. Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy.  In Review 
 
 #### Published
 - <strong>Siqi Liang^</strong>,Kyu Kwan Park^, Wei-Kuan Lin^, Hyoung Won Baac#, Sung-Liang Chen#, L. Jay Guo#（2025）. Photoacoustic sensing and transmission for biological and industrial applications.  <strong> Device（JCR一区，特邀综述）</strong> [[Paper]](https://doi.org/10.1016/j.device.2025.100831) 
